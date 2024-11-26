@@ -1,0 +1,16 @@
+label.error {
+  color: red;
+}
+
+input.error {
+  border-color: red;
+}
+
+textarea.error {
+  border-color: red;
+}
+
+.royalty-offer-wrap {
+  max-height: 300px;
+  overflow-y: auto;
+}

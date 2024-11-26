@@ -1,0 +1,10 @@
+label.error {
+    color: red;
+  }
+  input.error {
+	border-color:red;
+  }
+  textarea.error {
+	border-color:red;
+  }
+  
